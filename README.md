@@ -1,2 +1,2 @@
-# -AGV-School-
-Repositório para o projeto do jogo "AGV School"
+# -GOD OF STUDIES-
+Repositório para o projeto do jogo GOD OF STUDIES
